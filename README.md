@@ -3,8 +3,8 @@
 This is code for comparison of automatic machine learning libraries:
 
  - [auto-sklearn](https://github.com/automl/auto-sklearn)
- - autoML from [h2o](h2o.ai)
- - [mljar](mljar.com)
+ - autoML from [h2o](https://h2o.ai)
+ - [mljar](https://mljar.com)
 
 ### Datasets used for comparison
 
