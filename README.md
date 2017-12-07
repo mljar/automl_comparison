@@ -2,9 +2,9 @@
 
 This is code for comparison of automatic machine learning libraries:
 
- - auto-sklearn
- - autoML from h2o
- - mljar
+ - [auto-sklearn](https://github.com/automl/auto-sklearn)
+ - autoML from [h2o](h2o.ai)
+ - [mljar](mljar.com)
 
 ### Datasets used for comparison
 
