@@ -38,6 +38,8 @@ This is code for comparison of automatic machine learning libraries:
 | 846 | elevators | 16599 | 18 |
 | 847 | wind | 6574 | 14 |
 
+To download datasets you need to register on [openML](https://www.openml.org/) and set OPENML_KEY in your environment.
+
 ### Methodology
 
 

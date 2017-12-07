@@ -15,8 +15,8 @@ for dataset_id in dataset_ids:
     print 'Get dataset id', dataset_id
     dataset = openml.datasets.get_dataset(dataset_id)
     (X, y, categorical, names) = dataset.get_data(target=dataset.default_target_attribute, \
-                                                    return_categorical_indicator=True, \
-                                                    return_attribute_names=True)
+                                        return_categorical_indicator=True, \
+                                        return_attribute_names=True)
     if len(np.unique(y)) != 2:
         print 'Not binary classification'
         continue
