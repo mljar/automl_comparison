@@ -51,7 +51,7 @@ To download datasets you need to register on [openML](https://www.openml.org/) a
 
 ### Results
 
-| Dataset | Auto-sklearn | H2O          | MLJAR        |
+| Dataset Id | Auto-sklearn | H2O          | MLJAR        |
 |---------|--------------|--------------|--------------|
 | 179     | 0.4977899919 | 0.3152976149 | 0.3049036708 |
 | 24      | 0.0008299585 | 0.0064581712 | 0.000003843  |
